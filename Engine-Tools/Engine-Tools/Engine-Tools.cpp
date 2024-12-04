@@ -1,6 +1,7 @@
 ﻿// Engine-Tools.cpp : Defines the entry point for the application.
 //
 #include <SDL.h>
+#include <SDL_image.h>
 #include <stdio.h>
 #include "Engine-Tools.h"
 
