@@ -6,7 +6,7 @@ SDL2 window system. To work with this project, you need to download SDL2 to your
 
 Library: <br>
 SDL2 ✅ <br>
-SDL2image ❓ <br>
+SDL2image ✅ <br>
 GLFW ❓ <br>
 GLAD ❓ <br>
 
@@ -23,7 +23,7 @@ Mac OS ❓ <br>
 
 Библиотеки: <br>
 SDL2 ✅ <br>
-SDL2image ❓ <br>
+SDL2image ✅ <br>
 GLFW ❓ <br>
 GLAD ❓ <br>
 
